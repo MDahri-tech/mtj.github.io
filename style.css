@@ -1,0 +1,21 @@
+.navbar-brand img {
+  margin-right: 6px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.jumbotron h1 {
+  margin-bottom: auto;
+  font-family: Chela One;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
